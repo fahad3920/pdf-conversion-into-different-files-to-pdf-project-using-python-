@@ -38,4 +38,7 @@ streamlit run app.py
 * PyMuPDF (fitz)
 * Pillow
 * PyPDF2
-streamlit run app.py
+
+## License
+
+[MIT](LICENSE)
